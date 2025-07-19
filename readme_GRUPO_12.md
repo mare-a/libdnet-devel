@@ -33,6 +33,10 @@ Además, esta versión del repositorio mantiene una versión estable que ha sido
 
 El proyecto `libdnet-devel` es fundamental para comprender cómo funcionan herramientas de escaneo y manipulación de red desde sus bases. Me pareció relevante porque ayuda a entender cómo se crean paquetes personalizados, cómo se analizan rutas de red, y cómo interactúan las interfaces físicas con las virtuales. En ciberseguridad, este tipo de interacción de bajo nivel es esencial para escribir código propio y no depender solo de herramientas ya compiladas.
 
+Cristian Claderón
+
+NMAP es una herramienta de cyberseguridad que permite escanear redes u puertos y analizar vulnerabilidades y riesgos de un sistema informàtico
+
 [Referencia: Kali Tools - Dnet. https://tools.kali.org/information-gathering/dnet]
 
 ---
