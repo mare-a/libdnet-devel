@@ -27,7 +27,7 @@ Además, esta versión del repositorio mantiene una versión estable que ha sido
 
 ## ✍️ Aportes individuales
 
-(En esta sección, cada integrante del grupo agregará su análisis en su rama)
+NMAP es una herramienta de cyberseguridad ampliamente usada para poder realizar escaneo de redes y poder encontrar vulnerabilidades y riegos que puedan comprometer los sistemas informàticos de una empresa.
 
 ---
 
