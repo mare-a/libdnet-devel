@@ -28,7 +28,6 @@ Además, esta versión del repositorio mantiene una versión estable que ha sido
 ## ✍️ Aportes individuales
 
 
----
 
 ### María Emilia Aguilar
 
