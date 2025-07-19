@@ -27,16 +27,22 @@ Además, esta versión del repositorio mantiene una versión estable que ha sido
 
 ## ✍️ Aportes individuales
 
-(En esta sección, cada integrante del grupo agregará su análisis en su rama)
 
 ---
 
-### Kelly Pérez
+### María Emilia Aguilar
 
 El proyecto `libdnet-devel` es fundamental para comprender cómo funcionan herramientas de escaneo y manipulación de red desde sus bases. Me pareció relevante porque ayuda a entender cómo se crean paquetes personalizados, cómo se analizan rutas de red, y cómo interactúan las interfaces físicas con las virtuales. En ciberseguridad, este tipo de interacción de bajo nivel es esencial para escribir código propio y no depender solo de herramientas ya compiladas.
 
 [Referencia: Kali Tools - Dnet. https://tools.kali.org/information-gathering/dnet]
 
 ---
+
+
+
+###
+
+
+
 
 *Grupo 12 - Ciberseguridad – 2025*
